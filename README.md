@@ -8,7 +8,7 @@
 
 ## About Me
 
-I am 32 years old. I work as a sewing machine operator and study networking after 9 PM. This repository documents my journey from CCNA beginner to Network Automation Engineer.
+This repository documents my journey from CCNA beginner to Network Automation Engineer.
 
 ---
 
@@ -21,13 +21,7 @@ I am 32 years old. I work as a sewing machine operator and study networking afte
 
 ---
 
-## Completed Labs
-
-### Week 1: Basic 3-PC Network with Router
-- Built a network with 3 PCs, 1 switch, and 1 router
-- Configured IP addresses and routing
-- Documented 5 errors and fixes
-- Learned OSI layers, MAC vs IP, ARP
+## Completed Lab
 
 ### Week 2: Python Automation with Netmiko
 - Installed GNS3 and Cisco IOS image
@@ -35,16 +29,6 @@ I am 32 years old. I work as a sewing machine operator and study networking afte
 - Connected GNS3 to host PC using NAT
 - Wrote Python script using Netmiko
 - Retrieved show ip interface brief via Python
-
----
-
-## My Study Schedule
-
-| Day | Time | Activity |
-|-----|------|----------|
-| Mon-Fri | 9 PM - 11 PM | Theory + Labs |
-| Sat | 6 PM - 10 PM | CCNA Class Review + Practice |
-| Sun | Flexible | GNS3 Labs or Offline Study |
 
 ---
 
@@ -57,7 +41,3 @@ I am 32 years old. I work as a sewing machine operator and study networking afte
 - Netmiko
 - VS Code
 - Git / GitHub
-
----
-
-## Folder Structure
